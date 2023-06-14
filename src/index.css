@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.app.dark {
+    background-color: #333;
+    color: #fff;
+    
+  }
+  
+  .label-text.dark {
+    color: #fff;
+  }
+  
