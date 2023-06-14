@@ -1,4 +1,4 @@
-# sports--academy-client
+# sports-academy-client
 
 
 #  Sports Academy
@@ -14,10 +14,10 @@ Welcome to Sports Academy website
 -  Home Page with banner, slider, review,contact-us sections
 - Student Dashboard: Offers a personalized dashboard for students, including sections for selected courses and enrolled courses. Students can manage theircourses bookings, view relevant details, and make payments.
 - Payment System: Facilitates secure and streamlined payment processing for students, allowing them to finalize courses enrollments and view payment history.
--  After the payment process is Successful, send a  confirmation email to the uses .
+-  After the payment process is Successful, send a  confirmation email to the useres .
 -  Instructor Dashboard: Provides a dedicated dashboard for instructors to manage their classes. Instructors can add new classes, view existing ones, track student enrollment, and receive feedback.
 - Admin Dashboard: Grants administrators exclusive access to manage classes and users. Admins can approve or deny classes, provide feedback to instructors, and modify user roles.
-- 404 Page with a unique image or GIF
+- 404 Page with a unique image .
 - Environment Variables for secure configuration
 -  Responsive Design for mobile and desktop devices
 
